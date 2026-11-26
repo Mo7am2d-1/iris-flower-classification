@@ -19,7 +19,7 @@ python iris_classification.py
 ```
 
 The script prints the test accuracy of each model and saves a confusion
-matrix for the best one to `results.png`.
+matrix for the best one to `results.svg`.
 
 ## Results (test split = 20%, random_state=42)
 
@@ -29,7 +29,7 @@ matrix for the best one to `results.png`.
 | SVM (RBF kernel)   | 0.967         |
 | Decision Tree      | 0.967         |
 
-![confusion matrix](results.png)
+![confusion matrix](results.svg)
 
 ## Honest notes
 
