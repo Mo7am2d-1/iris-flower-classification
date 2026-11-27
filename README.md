@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-A small practice project from my machine learning course. It trains three
+Practice project built with AI assistance on a public dataset. It trains three
 simple classifiers (KNN, SVM, Decision Tree) on the classic Iris dataset
 and compares their accuracy on a held-out test split.
 
